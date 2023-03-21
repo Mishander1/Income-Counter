@@ -1,0 +1,105 @@
+body {
+    background-image: url("income.jpeg");
+    background-size: cover;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 30px;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    width: 150px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#plusOne-btn {
+    background: #3ca690;
+}
+#plusTwo-btn {
+    background: #3ca690;
+}
+#plusFive-btn {
+    background: #3ca690;
+}
+#plusTen-btn {
+    background: #3ca690;
+}
+#plusTwenty-btn {
+    background: #3ca690;
+}
+#plusFifty-btn {
+    background: #3ca690;
+}
+#plusOne-btn {
+    background: #3ca690;
+}
+#plusOne-btn {
+    background: #3ca690;
+}
+#plusHundreed-btn {
+    background: #3ca690;
+}
+#plusTwoHundreed-btn {
+    background: #3ca690;
+}
+#plusFiveHundreed-btn {
+    background: #3ca690;
+}
+#plusThousand-btn {
+    background: #3ca690;
+}
+#minusOne-btn {
+    background: #e2707a;
+}
+#minusTwo-btn {
+    background: #e2707a;
+}
+#minusFive-btn {
+    background: #e2707a;
+}
+#minusTen-btn {
+    background: #e2707a;
+}
+#minusTwenty-btn {
+    background: #e2707a;
+}
+#minusFifty-btn {
+    background: #e2707a;
+}
+#minusHundreed-btn {
+    background: #e2707a;
+}
+#minusTwoHundreed-btn {
+    background: #e2707a;
+}
+#minusFiveHundreed-btn {
+    background: #e2707a;
+}
+#minusThousand-btn {
+    background: #e2707a;
+}
+
+
+#save-btn {
+    background: black;
+    width: 140px;
+}
+
